@@ -1,9 +1,8 @@
-- 👋 Hi, I’m @OldStunna27
-- 👀 I’m interested in Data Science
-- 🌱 I’m currently learning Software Development
+
+- 👀 Data Scientist
+- 🌱 Data Analyst
 - 💞️ I’m looking to collaborate on Web Designs
-- 📫 How to reach me OldStunna27@utlook.com
-- 😄 Pronouns: Old_Stunna
+- 📫 Machine Learning
 - ⚡ Fun fact: Multi Talented
 
 <!---
